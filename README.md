@@ -1,6 +1,6 @@
 # Challenge Data ENS #163 — Egis : Prédiction du taux de mesures invalides
 
-> **Résultat** : Corrélation de Spearman : 0.5609 sur validation croisée 5-folds
+> **Résultat** : Corrélation de Spearman : 0.6021 sur validation croisée 5-folds
 
 ---
 
@@ -53,7 +53,7 @@ Analyse SHAP + Feature Importance
 Prédictions sur x_test → soumission
 ```
 
-### Features créées
+### Quelques Features créées
 | Feature | Description |
 |---|---|
 | `hour_sin`, `hour_cos` | Encodage cyclique de l'heure |
