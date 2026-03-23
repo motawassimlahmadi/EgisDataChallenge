@@ -53,7 +53,7 @@ Analyse SHAP + Feature Importance
 Prédictions sur x_test → soumission
 ```
 
-### Features créées
+### Quelques Features créées
 | Feature | Description |
 |---|---|
 | `hour_sin`, `hour_cos` | Encodage cyclique de l'heure |
