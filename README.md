@@ -108,7 +108,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/egis_challenge.ipynb
 ```
 
-**Note** : Le dataset (~500 Mo) n'est pas inclus dans ce repo. Les fichiers CSV doivent être placés à la racine du projet.
+**Note** : Le dataset (~500 Mo) n'est pas inclus dans ce repo. Les fichiers CSV doivent être placés dans un dossier ***data***.
 
 ---
 
@@ -116,5 +116,3 @@ jupyter notebook notebooks/egis_challenge.ipynb
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![LightGBM](https://img.shields.io/badge/LightGBM-4.x-green)
-![Optuna](https://img.shields.io/badge/Optuna-3.x-orange)
-![SHAP](https://img.shields.io/badge/SHAP-0.44-red)
