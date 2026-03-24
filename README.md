@@ -1,6 +1,6 @@
 # Challenge Data ENS #163 — Egis : Prédiction du taux de mesures invalides
 
-> **Résultat** : Corrélation de Spearman : 0.6421 sur validation croisée 5-folds - Top 6 : 0.5340
+> **Résultat** : Corrélation de Spearman : 0.6421 sur validation croisée 5-folds - Top 5 : 0,5699
 
 ---
 
